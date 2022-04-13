@@ -1,6 +1,9 @@
 Stap 1  Download de files als zip.
+
 Stap 2  Pak de zip uit
+
 Stap 3  Open Chrome Extentions (chrome://extensions/)
+
 Stap 4  Selecteer de directory waar de bestanden bestanden staan.
 
 ![Screenshot 2022-04-13 at 14 00 59](https://user-images.githubusercontent.com/14312145/163175581-45f188fa-f308-48ef-ba31-cc61aabc9a68.png)
