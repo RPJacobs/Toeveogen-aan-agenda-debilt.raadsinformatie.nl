@@ -1,5 +1,7 @@
 Stap 1  Download de files als zip.
 
+![Screenshot 2022-04-13 at 14 04 15](https://user-images.githubusercontent.com/14312145/163176006-ab307391-44e3-413d-9473-ddde7dcd1ae9.png)
+
 Stap 2  Pak de zip uit
 
 Stap 3  Open Chrome Extentions (chrome://extensions/)
